@@ -119,6 +119,13 @@ Email: [mohammedamsatha2@gmail.com](mailto:mohammedamsatha2@gmail.com)
  LinkedIn: Your LinkedIn Profile
 
 ---
+## Screenshots
+ <img width="952" height="443" alt="Screenshot 2026-05-30 154738" src="https://github.com/user-attachments/assets/9034b6bc-7f67-4964-99d9-32245b58da6d" />
+ <img width="901" height="442" alt="Screenshot 2026-05-30 154800" src="https://github.com/user-attachments/assets/e2d62fe8-a423-4399-9b50-b66b0b0c3ff6" />
+<img width="952" height="444" alt="Screenshot 2026-05-30 193107" src="https://github.com/user-attachments/assets/89302578-78b0-4d61-af7f-a2bc80b7b5bb" />
+<img width="958" height="456" alt="Screenshot 2026-05-30 193130" src="https://github.com/user-attachments/assets/f83768b6-3afb-4740-9138-eefd28bd58c3" />
+
+
 
 ## Author
 
