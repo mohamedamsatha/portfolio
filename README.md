@@ -26,7 +26,7 @@ Applying analytical approaches to identify patterns, trends, and insights from s
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### 01. HTML5 & CSS3
 
